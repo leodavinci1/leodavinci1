@@ -22,8 +22,6 @@
 ### ⭐ Cool projects ⭐
 - [CodingLeo.com - ThreeJS portfolio website](https://github.com/leodavinci1/codingleo.com)
 - [Brello - Trello clone with GPT-4](https://github.com/leodavinci1/brello)
-- [RareBNB - Airbnb Clone](https://github.com/leodavinci1/rarebnb)
-- [The Fresh York Times - NYTimes Clone](https://github.com/leodavinci1/fytimes)
 - [Cool Dash - NextJS 14 Dashboard](https://github.com/leodavinci1/cool-dash)
 
 > *Why do all submarines run Linux?*
